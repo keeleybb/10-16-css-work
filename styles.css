@@ -32,14 +32,11 @@ a:link {
 #main-bio {
     float: left;
     width: 67%;
-    padding: 0px 10px 20px 40px;
-    margin:0px;
 }
 #contact-info {
     float: left;
 }
 #bio-image {
     float: left;
-    margin: 0px 20px 0px 0px;
     width: 200px;
 }
