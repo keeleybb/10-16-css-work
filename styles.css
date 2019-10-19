@@ -17,7 +17,7 @@ h1 {
     font-size: 28px;
     padding: 20px 0px;
     text-align: center;
-    margin:0;
+    margin: 0;
 }
 h2 {
     font-size: 24px;
@@ -37,7 +37,7 @@ a:link {
 }
 #contact-info {
     float: left;
-    width: 33%%;
+    width: 33%;
 }
 #bio-image {
     float: left;
